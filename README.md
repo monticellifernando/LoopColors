@@ -24,7 +24,7 @@ So:
 It looks like two rockets getting closer but also rotating.
 
 ## ... (really?)
-Well, cmon, it was a hollyday today. 
+Well, cmon, it was a holiday! I had to do smth to stop working a bit!
 
 ## yea sure... How I make one with these scripts?
 
