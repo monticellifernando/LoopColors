@@ -3,9 +3,9 @@ Simple script to make a video looping colours of a pallette
 
 ## What is this?
 
-I made a moving Roicket!:
+I made a gif with looping colours that seems its moving:
 
-[[embed url=Rocket.mp4]]
+<Rocket.mp4>
 
 
 This started to proof my argument to a friend (and others on the net) that the animation in this gif below 
@@ -13,7 +13,6 @@ has nothing to do with the animated part on the bottom right, but JUST about **h
 
 https://twitter.com/jagarikin/status/1329610899976437765
 
-[[embed url=https://video.twimg.com/tweet_video/EnO5_78UwAAbWEm.mp4]]
 
 So:
 * I just did an svg image with a rocket with three colours. 
