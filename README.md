@@ -25,17 +25,19 @@ python LoopColours.py ; ffmpeg -i Output_%2d.bmp Output.mp4; ffmpeg -f concat -i
 ## So how exactly works?
 There is something to do with border colours w.r.t. main color. Not sure. So Basically it loops over the following 12 colours:
 
-| # | RGB | Color |
---------------------
-| 1  | 80 fa 7b | `#80fa7b ##` |
-| 2  | bd e6 3b | `#bde63b ##`   |
-| 3  | 13 be e6 | `#13bee6 ##`   |
-| 4  | 01 7c f9 | `#017cf9 ##`   |
-| 5  | 12 3c e9 | `#123ce9 ##`   |
-| 6  | 3f 11 bc | `#3f11bc ##`   |
-| 7  | 7f 02 fa | `#7f02fa ##`   |
-| 8  | be 14 3b | `#be143b ##`   |
-| 9  | e9 3e 12 | `#e93e12 ##`   |
-| 10 | fb 7c 03 | `#fb7c03 ##`   |
-| 11 | e7 bc 10 | `#e7bc10 ##`   |
-| 12 | bd e6 3b | `#bde63b ##`   |
+| N  | RGB      | Color  |
+|----|----------|--------|
+| 1  | 80 fa 7b | 80fa7b |
+| 2  | bd e6 3b | bde63b |
+| 3  | 13 be e6 | 13bee6 |
+| 4  | 01 7c f9 | 017cf9 |
+| 5  | 12 3c e9 | 123ce9 |
+| 6  | 3f 11 bc | 3f11bc |
+| 7  | 7f 02 fa | 7f02fa |
+| 8  | be 14 3b | be143b |
+| 9  | e9 3e 12 | e93e12 |
+| 10 | fb 7c 03 | fb7c03 |
+| 11 | e7 bc 10 | e7bc10 |
+| 12 | bd e6 3b | bde63b |
+
+
