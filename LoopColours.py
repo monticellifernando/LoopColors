@@ -8,7 +8,7 @@ Colors = [
         [b'\x01', b'\x7c', b'\xf9'],
         [b'\x12', b'\x3c', b'\xe9'],
         [b'\x3f', b'\x11', b'\xbc'],
-        [b'\x7f', b'\x02', b'\xfa'],
+        [b'\x7f', b'\x02', b'\x7a'],
         [b'\xbe', b'\x14', b'\x3b'],
         [b'\xe9', b'\x3e', b'\x12'],
         [b'\xfb', b'\x7c', b'\x03'],
