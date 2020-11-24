@@ -5,7 +5,7 @@ Simple script to make a video looping colours of a pallette
 
 I made a gif with looping colours that seems its moving:
 
-<Rocket.mp4>
+[Check here!])https://github.com/monticellifernando/LoopColors/blob/main/Rocket.mp4)
 
 
 This started to proof my argument to a friend (and others on the net) that the animation in this gif below 
